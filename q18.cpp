@@ -1,3 +1,4 @@
+//WAP that uses static data in a class
 #include<iostream>
 #include<string>
 using namespace std;
