@@ -9,7 +9,7 @@ using namespace std;
   string branch;
   int roll;
   public:
-  student(string n ,string br,int rollNo);;
+  student(string n ,string br,int rollNo);
   void displayData();
  };
 
