@@ -16,9 +16,9 @@ class Student{
   }
 };
 int main(){
-  Student st1(241117,"rashid ekbal");
+  Student st1(2414342,"rashid");
   st1.displayData();
-  Student st2(2414342,"golden");
+  Student st2(24141134,"raju");
   st2.displayData();
   return 0;
 }

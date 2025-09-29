@@ -32,7 +32,7 @@ static void studentCount(){
 };
 int student ::stdCount;
 int main(){
-  student st1("rashid ekbal",241117,true);
+  student st1("rashid",2414342,true);
   student st2("raju khan",2414584,false);
   st1.displayData();
   st2.displayData();

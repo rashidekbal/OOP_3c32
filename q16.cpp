@@ -22,7 +22,7 @@ class student{
 };
 
 int main(){
-  student st1("rashid ","btech(C.S.E)",241117);
+  student st1("rashid ","btech(C.S.E)",2414342);
   st1.displayData();
   return 0;
 }
